@@ -1,0 +1,37 @@
+_repo: Five-Hundred-Dollars--or-Jacob-Marlowe-s-Secret_21270
+_version: 0.1.0
+alternative_title: $500, or, Jacob Marlowe's secret
+covers:
+- cover_type: archival
+  image_path: 21270-h/images/cover.a.jpg
+creator:
+  author:
+    agent_name: Alger, Horatio, Jr.
+    aliases:
+    - Putnam, Arthur Lee
+    - Starr, Julian
+    - Alger, Horatio
+    - Preston, Charles F.
+    - Jr., Horatio Alger
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+description: ''
+gutenberg_issued: '2007-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21270'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Honesty -- Fiction'
+- !lcsh 'Conduct of life -- Fiction'
+- !lcsh 'Uncles -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Actors and actresses -- Fiction'
+title: Five Hundred Dollars; or, Jacob Marlowe's Secret
+url: http://www.gutenberg.org/ebooks/21270
